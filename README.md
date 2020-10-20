@@ -1,1 +1,1 @@
-# Indian-State-Census-Analyser
+# IndianStatesCensusAnalyzer
